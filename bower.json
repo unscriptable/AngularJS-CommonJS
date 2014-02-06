@@ -4,7 +4,9 @@
   "version": "0.0.0",
   "dependencies": {
     "boot": ""
-    "boot-byext": ""
+    "boot-byext": "",
+    "boot-ng": "",
+    "boot-ng-firebase": ""
   },
   "authors": [ "unscriptable <john@unscriptable.com>" ],
   "main": "app/main",
