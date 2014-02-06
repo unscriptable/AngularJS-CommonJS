@@ -3,7 +3,7 @@
   "description": "A sample module pattern for AngularJS.",
   "version": "0.0.0",
   "dependencies": {
-    "boot": ""
+    "boot": "",
     "boot-byext": "",
     "boot-ng": "",
     "boot-ng-firebase": ""
