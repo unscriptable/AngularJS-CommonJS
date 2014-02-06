@@ -2,6 +2,7 @@ var projectsFactory = require('../projects/factory');
 var routes = require('./routes');
 var projectsController = require('../projects/controller');
 
+// is this needed here? or just in the controllers where it's used?
 require('Firebase');
 
 module.exports = angular.module('project', ['ngRoute', 'firebase'])
