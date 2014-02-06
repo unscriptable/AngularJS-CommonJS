@@ -1,0 +1,14 @@
+{
+  "name": "AngularJS-CommonJS",
+  "description": "A sample module pattern for AngularJS.",
+  "version": "0.0.0",
+  "dependencies": {
+    "boot": ""
+    "boot-byext": ""
+  },
+  "authors": [ "unscriptable <john@unscriptable.com>" ],
+  "main": "app/main",
+  "keywords": [ "AngularJS", "CommonJS", "node", "amd", "module", "pattern" ],
+  "license": "MIT",
+  "ignore": [ "**/.*", "node_modules", "bower_components", "test", "tests" ]
+}
