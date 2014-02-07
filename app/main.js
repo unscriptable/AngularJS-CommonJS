@@ -1,3 +1,4 @@
+var angular = require('angular');
 var projectsFactory = require('../projects/factory');
 var routes = require('./routes');
 var projectsController = require('../projects/controller');
